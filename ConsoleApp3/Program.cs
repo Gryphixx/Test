@@ -11,8 +11,7 @@ namespace ConsoleApp3
         static void Main(string[] args)
         {
             Console.WriteLine("ello");
-
-            Console.WriteLine("toevoege slaaf 1");
+            
             Console.WriteLine("hallo");
             int ok;
         }
