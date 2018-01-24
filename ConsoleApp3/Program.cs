@@ -14,6 +14,7 @@ namespace ConsoleApp3
 
             Console.WriteLine("toevoege slaaf 1");
             Console.WriteLine("hallo");
+            int ok;
         }
     }
 }
