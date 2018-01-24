@@ -10,6 +10,7 @@ namespace ConsoleApp3
     {
         static void Main(string[] args)
         {
+            int sqgfs;
             Console.WriteLine("ello");
             int zsdfq;
             int s;
