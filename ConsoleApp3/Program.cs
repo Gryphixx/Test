@@ -17,6 +17,7 @@ namespace ConsoleApp3
             int dfq;
             int sd;
             int f;
+            Console.WriteLine("nigrqs stom zijn");
         }
     }
 }
